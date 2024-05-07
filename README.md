@@ -50,7 +50,7 @@ This could mean leveraging emerging technologies like electric vehicles or auton
 
 With [Migrateshop’s](https://migrateshop.com/) Uber clone, the road to success in the ride-hailing industry is wide open. By leveraging a proven business model, customizing your app, executing a strategic launch and growth plan, and embracing innovation, you can create your own ride-hailing success story and disrupt the transportation landscape in your local market and beyond.
 
-Visit- https://migrateshop.com/uber-clone/ 
+### Grab our Live Demo of Uber Clone - https://migrateshop.com/uber-clone/ 
 
 **Get In Touch With Us:** 
 
