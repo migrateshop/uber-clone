@@ -33,6 +33,38 @@ An Uber clone typically has the key features,
 
 * **Review and Ratings:** Riders can leave reviews and ratings for their drivers and provide feedback that may help maintain a high level of service.
 
+## Uber Clone App: How it works.
+
+The [Uber clone app](https://migrateshop.com/uber-clone/) can also work in perfect and convenient manner in the case of a rider and driver and the application is the copy of the successful pattern of Uber and in the same way, it can be colored according to the specific need of the business.
+The following is a step-by-step explanation of the way Uber clone app works:
+
+### 1. User Registration and Sign-in
+* Riders and drivers download their apps.
+* They sign up with the use of email, mobile number or social media.
+* The admin can verify and approve documents of drivers before these drivers go live.
+
+### 2. Ride Request
+* A rider logs in to his app, selects a destination where he wants to be picked and where he wants to drop, and a vehicle type.
+* The application shows a projected price and estimated arrival time.
+
+### 3. Pairing with Drivers near You
+* The system is based on real-time GPS and the request ride is matched with the closest available driver.
+* The notification on the ride details is sent to the driver, who can either accept or reject the request.
+### 4. Navigations and Ride Acceptance
+* After a driver finds and accepts another rider, a request is sent to the rider, including the details of a driver, car information, and an expected arrival time.
+* In-car navigation comes in handy so that the driver can locate where the rider is.
+### 5. Trip Start and Completion
+* When a driver picks up, he begins the trip in the app.
+* Rider can follow the track in real time and both he and driver can see how the trip is proceeding.
+* Once the destination is reached the journey is over and automatic fare is computed.
+### 6. Payment and Ratings
+* The rider makes a payment through the desired method: card, wallet, PayPal, or cash.
+* The rider and the driver have the right to rate each other and leave feedback regarding the quality of services.
+### 7. Admin Oversight
+* The admin panel can be used to monitor all the rides, activity, earnings, disputes and analytics of the users.
+* Admins will be able to determine the commission levels, run promotions and access real-time revenue.
+
+
 ## Benefits of an Uber Clone
 
 The following are some of the benefits when you are using the [Uber clone](https://migrateshop.com/uber-clone/) for your booking taxi business:
